@@ -3,3 +3,5 @@
 h1{font-family: “fantasy”; font-size: 20px; font-weight: bold; letter-spacing: 1px;}
 p{line-height: 1.5; font-family: "monospace" }
 p:nth-of-type(2){font-family: 'Playfair Display', serif;}
+p:nth-of-type(3){font-family: 'Pacifico', cursive;}
+p:nth-of-type(4){font-family: 'Lobster', cursive;}
