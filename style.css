@@ -5,3 +5,15 @@ p{line-height: 1.5; font-family: "monospace" }
 p:nth-of-type(2){font-family: 'Playfair Display', serif;}
 p:nth-of-type(3){font-family: 'Pacifico', cursive;}
 p:nth-of-type(4){font-family: 'Lobster', cursive;}
+
+p:hover{color: #FF6347; transition: 2s; background: #DB7093;}
+p:focus{color: #008B8B;}
+footer{
+	display: none;
+	background: #008B8B;
+}
+
+p:hover footer {
+    display: block;
+}
+
